@@ -3,8 +3,9 @@ h1 {
   background-color: #292929;
   color: white;
   padding: 10px;
-  margin: 1px;
+  margin: auto;
   font-family: "Arial black", sans-serif;
+  width: 80%;
 }
 
 nav {
